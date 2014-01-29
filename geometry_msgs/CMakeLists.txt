@@ -15,6 +15,8 @@ add_message_files(
   Pose.msg
   PoseArray.msg
   PoseStamped.msg
+  PoseTwist.msg
+  PoseTwistStamped.msg
   PoseWithCovariance.msg
   PoseWithCovarianceStamped.msg
   Quaternion.msg
